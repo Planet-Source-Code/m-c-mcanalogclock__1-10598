@@ -1,0 +1,6 @@
+ÿ=Usage; of module: Put McAnalogClock module in 
+jour project, put picture box on your form, run this 
+code from anywhere: McAnalogClock picture1. And 
+voila clock is there and running.                               
+Side effect: No code after ' McAnalogClock picture1' line , within sub, will 
+be executed ever.
